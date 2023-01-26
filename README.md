@@ -2,3 +2,4 @@ Code Breaker is a JavaScript game that challenges players to crack a code by arr
 If you wanna play just go to this link : http://l3v1.pl/cb/
 ![image](https://user-images.githubusercontent.com/98186890/213996410-89668bab-aac6-4147-a7db-12384dfe8028.png)
 ![image](https://user-images.githubusercontent.com/98186890/213996634-10b16104-e29a-4d86-a9e5-88b649b41286.png)
+[Link to the presentation describing the project](https://docs.google.com/presentation/d/1le6bnMOdBvXSxaAcTisaiiRFRBhlHUbVnLaTfsYywYE/edit?usp=sharing)
